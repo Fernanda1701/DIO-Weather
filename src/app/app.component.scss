@@ -1,0 +1,29 @@
+.container-fluid {
+  height: calc(100vh - 56px);
+
+  > .row {
+    height: 100%;
+  }
+}
+
+.nav-item{
+   margin: 15px;
+   padding: 12px;
+   width:280px;
+   height:65px;
+   border: 2px solid;
+   border-radius: 10px;
+   border-color: #01DFD7;
+}
+
+.nav-link-i{
+  font-size: 20px;
+  margin-left: 100px;
+}
+
+.nav-link-f{
+  font-size: 20px;
+  margin-left: 80px;
+}
+
+
