@@ -41,6 +41,17 @@ http://localhost:4200
 ```
 Abra o endereço no navegador de sua preferência e utilize suas funcionalidades.
 
+### 🧐 Testes
+
+Para efetuar testes via Karma, digite no terminal:
+```bash
+ng test
+```
+Para efetuar testes end-to-end via Protractor, digite:
+```bash
+ng e2e
+```
+
 
 ## 🛠 Tecnologias
  
@@ -51,6 +62,8 @@ Abra o endereço no navegador de sua preferência e utilize suas funcionalidades
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Karma](https://karma-runner.github.io/latest/index.html)
+- [Protractor](http://www.protractortest.org/#/)
 - Versionamento de código no [GitHub](https://github.com/)
 
 
