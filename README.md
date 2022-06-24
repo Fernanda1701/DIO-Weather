@@ -64,7 +64,7 @@ ng e2e
 - [TypeScript](https://www.typescriptlang.org/)
 - [Karma](https://karma-runner.github.io/latest/index.html)
 - [Protractor](http://www.protractortest.org/#/)
-- Versionamento de código no [GitHub](https://github.com/)
+- Versionamento de código no [Git](https://git-scm.com/)
 
 
 ## 💻 IDE
